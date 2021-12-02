@@ -1,0 +1,16 @@
+* Variables
+    la variable es un elemento que se utiliza para
+guardar un valor que se le quiere dar. Hay tres formas
+de declarar una variable: var , lef , const.  
+* Strings
+    Los strings solo son textos que van entre 
+    comillas siemples o dobles( ''; "")
+* Funciones (argumentos, `return`)
+    Los argumentos son declaraciones en una funcion 
+    return es el retorno de una funcion, la unica forma de acceder a ellos si ya se ah declarado 
+    una variable en el block
+
+* Declaraciones `if`
+    el if es basicamente un controlador de flujo que va a comprar valores con los operadores de comparacion.
+* Valores booleanos (`true`, `false`)
+    son valores que nos devuelve la funcion cuando se compara algo, puede ser true o false dependiendo de la misma.
