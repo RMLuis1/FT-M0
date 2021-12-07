@@ -1,0 +1,11 @@
+Operadores logicos:
+&& 
+"Y" (AND) es un operador que nos permite ver si todas expresiones son true o false.
+en el caso de que todas sean ciertas, nos retornara true. si alguna de ellas es falsa nos devuelve
+false.
+||
+"O" (OR) este operador nos devolvera true si al menos una de las expresiones que se nos presenten
+es verdadera. en el caso de que todas sean falsas nos devolvera false.
+Bucle For
+es una funcion que nos permite repetir determinadas veces la misma, y esta compuesta por una variable,
+una expresion condicional, y un incremento de variable.
